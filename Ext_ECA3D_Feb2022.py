@@ -37,7 +37,6 @@ LoadingType = 'Bending'
 # LoadingType = 'Tensile'
 # LoadingType = 'Torsion'
 
-
 Applied_Bending = 0.24
 Applied_Int_Pressure = 10
 Applied_Tensile_Pressure = 5
@@ -52,8 +51,6 @@ MaterialType = 'Plastic-Deformation'
 N_Mat = 5 
 # N_Mat = 10
 # N_Mat = 20 
-
-
 ###################
 
 # a= 2.06
